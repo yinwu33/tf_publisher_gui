@@ -15,3 +15,9 @@ source devel/setup.bash
 
 rosrun tf_publisher_gui run.py
 ```
+
+## Dependencies
+
+* PyQt5
+* tf2_ros
+* tf
